@@ -17,10 +17,10 @@
   dependencies:
     "@airb/utils" "^0.0.101"
 
-"@airb/iconfont@^0.0.104":
-  version "0.0.104"
-  resolved "https://registry.yarnpkg.com/@airb/iconfont/-/iconfont-0.0.104.tgz#057ee68c5625736d97634d8235719191960c83af"
-  integrity sha512-Fi4pn+19BVtfqope5QbspLRL90d+TcZdvrdIae8SBAnbcJ+eyQ17s88LZouKWW/nnzblPMaH4Sou/2W2ZttXdQ==
+"@airb/iconfont@^0.0.105":
+  version "0.0.105"
+  resolved "https://registry.yarnpkg.com/@airb/iconfont/-/iconfont-0.0.105.tgz#a50085bafa05b9bf9242926948a7da5796eaab4b"
+  integrity sha512-6ASd/TFW1kZ+eW76hIHjKd1L0g4JUcYw/7x0nR+m79jidGoydEQ3Jtbl5zD+Lpq0X59bg6kFrryU00BcqHoqyQ==
   dependencies:
     "@airb/args" "^0.0.110"
     "@airb/fs" "^0.0.103"
