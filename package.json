@@ -1,6 +1,6 @@
 {
     "name": "icons-webpack-plugin",
-    "version": "0.0.1",
+    "version": "0.0.101",
     "description": "A webpack plugin for generate svg to iconfont.",
     "main": "lib/index.js",
     "repository": "git@github.com:edonet/icons-webpack-plugin.git",
@@ -8,7 +8,7 @@
     "license": "MIT",
     "dependencies": {
         "@airb/fs": "^0.0.103",
-        "@airb/iconfont": "^0.0.104",
+        "@airb/iconfont": "^0.0.105",
         "memory-webpack-plugin": "^0.0.102"
     }
 }
