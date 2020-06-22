@@ -1,0 +1,14 @@
+{
+    "include": ["./lib"],
+    "exclude": ["./dist"],
+    "compilerOptions": {
+        "target": "es2018",                // 指定ECMAScript目标版本
+        "module": "commonjs",              // 指定模块化类型
+        "lib": ["es2018"],                 // 使用`es6`类型库
+        "declaration": true,               // 生成 `.d.ts` 文件
+        "rootDir": "./lib",                // 源文件目录
+        "outDir": "./dist",                // 编译后生成的文件目录
+        "esModuleInterop": true,           // 兼容`es6`模块加载模式
+        "strict": true                     // 开启严格的类型检测
+    }
+}
